@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Creative Developer | Portfolio",
+  title: "MuhammedJashir",
   description: "A high-end scrollytelling portfolio built with Next.js and Framer Motion.",
 };
 

@@ -111,7 +111,7 @@ export default function Projects() {
                     <h3 className="text-3xl font-bold text-white mb-3">
                       {project.title}
                     </h3>
-                    <p className="text-white/80 max-w-sm hidden md:block">
+                    <p className="text-white/80 max-w-sm text-sm md:text-base mt-2 line-clamp-2 md:line-clamp-none">
                       {project.description}
                     </p>
                   </div>
