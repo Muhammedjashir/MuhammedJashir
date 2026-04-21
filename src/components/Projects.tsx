@@ -42,7 +42,7 @@ const projects = [
     category: "UI Design",
     description: "Modern furniture catalog landing page with elegant typography.",
     image: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=2370&auto=format&fit=crop",
-    link: "#"
+    link: "https://voicence-task-167n.vercel.app/"
   },
   {
     id: 6,

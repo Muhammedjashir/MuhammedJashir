@@ -16,7 +16,8 @@ const experiences = [
     company: "Bridgeon Solution LLP",
     period: "2024 – 2025",
     description: "Bridgeon Solution LLP is a leading software development company specializing in scalable digital solutions. During my time there, I gained hands-on experience in modern web technologies and full-stack development.",
-  }
+  },
+
 ];
 
 export default function Experience() {
