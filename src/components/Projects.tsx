@@ -26,7 +26,7 @@ const projects = [
     category: "Corporate",
     description: "Digital presence for an Arab related company, built with modern tech.",
     image: "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=2364&auto=format&fit=crop",
-    link: "https://vercel.com/muhammedjashirs-projects/arabbia-com"
+    link: "https://arabbia-com.vercel.app/"
   },
   {
     id: 4,
