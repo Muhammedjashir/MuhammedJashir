@@ -1,155 +1,187 @@
+
 <div align="center">
 
-<!-- HERO CARD -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td bgcolor="#F7F6F2" style="border-radius: 18px; padding: 36px 40px; color: #111111; font-family: Georgia, 'Times New Roman', serif;">
-      <table width="100%" cellpadding="0" cellspacing="0" border="0">
-        <tr>
-          <td valign="top" width="65%" style="padding-right: 24px;">
-            <div style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; color: #555555; text-transform: uppercase; margin-bottom: 18px;">
-              <span style="color: #2563EB;">&#9632;</span> FULL-STACK DEVELOPER &amp; BUILDER
-            </div>
-            <div style="font-size: 56px; line-height: 1.02; font-weight: 400; color: #111111; margin-bottom: 22px;">
-              Muhammed<br/>
-              Jash<span style="color: #2563EB; font-style: italic;">ir</span>
-            </div>
-            <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; line-height: 1.5; color: #333333; margin-bottom: 20px;">
-              I build full-stack web apps, custom business tools, and clean digital products.
-            </div>
-            <div style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px;">
-              <a href="https://github.com/Muhammedjashir" style="color: #111111; text-decoration: none;">github.com/Muhammedjashir &#8599;</a>
-            </div>
-          </td>
-          <td valign="middle" align="center" width="35%">
-            <!-- Replace YOUR_IMAGE_URL_HERE with your portrait or ASCII/art image link -->
-            <img src="YOUR_IMAGE_URL_HERE" alt="Muhammed Jashir" width="220" style="border-radius: 12px; display: block;" />
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+# Muhammed Jashir
 
-<br/>
+### Frontend Developer · MERN Stack Developer
 
-<!-- CONTRIBUTION / ACTIVITY CARD -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td bgcolor="#F7F6F2" style="border-radius: 18px; padding: 32px 36px; color: #111111; font-family: Georgia, 'Times New Roman', serif;">
-      <table width="100%" cellpadding="0" cellspacing="0" border="0">
-        <tr>
-          <td colspan="2" style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; color: #666666; text-transform: uppercase; padding-bottom: 8px;">
-            RECENT ACTIVITY ON GITHUB
-          </td>
-        </tr>
-        <tr>
-          <td valign="top" width="72%" style="padding-right: 24px;">
-            <div style="font-size: 38px; line-height: 1.15; color: #111111; margin-bottom: 20px;">
-              Shipping <span style="font-style: italic;">modern</span> web apps
-            </div>
-            <!-- GitHub Contribution Graph SVG -->
-            <img src="https://ghchart.rshah.org/2563EB/Muhammedjashir" alt="Muhammedjashir GitHub chart" width="100%" style="display: block; border-radius: 8px;" />
-          </td>
-          <td valign="top" width="28%" style="border-left: 1px solid #E2DFD7; padding-left: 20px;">
-            <div style="padding-bottom: 14px; border-bottom: 1px solid #E2DFD7; margin-bottom: 14px;">
-              <div style="font-size: 28px; color: #111111;">MERN &amp; <span style="font-style: italic;">Next</span></div>
-              <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 12px; color: #666666;">core full-stack focus</div>
-            </div>
-            <div style="padding-bottom: 14px; border-bottom: 1px solid #E2DFD7; margin-bottom: 14px;">
-              <div style="font-size: 28px; color: #111111;">APIs &amp; <span style="font-style: italic;">UI</span></div>
-              <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 12px; color: #666666;">scalable architecture</div>
-            </div>
-            <div>
-              <div style="font-size: 28px; color: #111111;">24/7</div>
-              <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 12px; color: #666666;">always learning &amp; building</div>
-            </div>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+Building digital experiences with React, Next.js & Node.js.
 
-<br/>
-
-<!-- 3 COLORED CARDS (BUILD / BRAND / WORK) -->
-<table width="100%" cellpadding="0" cellspacing="12" border="0" style="border-collapse: separate; border-spacing: 12px 0;">
-  <tr>
-    <td valign="top" width="33.3%" bgcolor="#1D4ED8" style="border-radius: 16px; padding: 24px; color: #FFFFFF;">
-      <div style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.9; margin-bottom: 36px;">
-        BUILD &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8594;
-      </div>
-      <div style="font-family: Georgia, serif; font-size: 32px; line-height: 1.1; margin-bottom: 14px;">
-        Web <span style="font-style: italic;">platforms</span>
-      </div>
-      <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 14px; line-height: 1.45; color: #DBEAFE;">
-        Full-stack apps, dashboards, APIs, and custom software built for real workflows.
-      </div>
-    </td>
-
-    <td valign="top" width="33.3%" bgcolor="#EF3324" style="border-radius: 16px; padding: 24px; color: #FFFFFF;">
-      <div style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; opacity: 0.9; margin-bottom: 36px;">
-        BRAND &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8594;
-      </div>
-      <div style="font-family: Georgia, serif; font-size: 32px; line-height: 1.1; margin-bottom: 14px;">
-        Clean <span style="font-style: italic;">interfaces</span>
-      </div>
-      <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 14px; line-height: 1.45; color: #FEE2E2;">
-        Brand visuals, modern UI layouts, and responsive digital experiences.
-      </div>
-    </td>
-
-    <td valign="top" width="33.3%" bgcolor="#F5B800" style="border-radius: 16px; padding: 24px; color: #111111;">
-      <div style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 36px;">
-        STACK &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8594;
-      </div>
-      <div style="font-family: Georgia, serif; font-size: 32px; line-height: 1.1; margin-bottom: 14px;">
-        Modern <span style="font-style: italic;">tools</span>
-      </div>
-      <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 14px; line-height: 1.45; color: #1F2937;">
-        React, Next.js, TypeScript, Node.js, Express, MongoDB, and Tailwind CSS.
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- WHAT I'M CODING SECTION -->
-<div align="left" style="font-family: Georgia, serif; font-size: 30px; color: #FFFFFF; margin-bottom: 16px;">
-  What I'm <span style="font-style: italic;">coding</span>
-</div>
-
-<table width="100%" cellpadding="0" cellspacing="12" border="0" style="border-collapse: separate; border-spacing: 12px 0;">
-  <tr>
-    <td valign="top" width="33.3%" bgcolor="#F7F6F2" style="border-radius: 16px; padding: 22px; color: #111111;">
-      <div style="font-family: ui-sans-serif, system-ui, sans-serif; font-weight: 700; font-size: 16px; margin-bottom: 10px;">
-        <span style="color: #2563EB;">&#9632;</span> fullstack-web-app
-      </div>
-      <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.5; color: #444444;">
-        End-to-end web application with clean frontend architecture and backend APIs.
-      </div>
-    </td>
-
-    <td valign="top" width="33.3%" bgcolor="#F7F6F2" style="border-radius: 16px; padding: 22px; color: #111111;">
-      <div style="font-family: ui-sans-serif, system-ui, sans-serif; font-weight: 700; font-size: 16px; margin-bottom: 10px;">
-        <span style="color: #EF3324;">&#9632;</span> business-crm-suite
-      </div>
-      <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.5; color: #444444;">
-        Custom management and billing workflows designed for everyday operations.
-      </div>
-    </td>
-
-    <td valign="top" width="33.3%" bgcolor="#F7F6F2" style="border-radius: 16px; padding: 22px; color: #111111;">
-      <div style="font-family: ui-sans-serif, system-ui, sans-serif; font-weight: 700; font-size: 16px; margin-bottom: 10px;">
-        <span style="color: #EAB308;">&#9632;</span> ui-design-system
-      </div>
-      <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; line-height: 1.5; color: #444444;">
-        Reusable components, responsive layouts, and polished web experiences.
-      </div>
-    </td>
-  </tr>
-</table>
+[Portfolio](https://my-portfolio-ew28.vercel.app) ·
+[GitHub](https://github.com/Muhammedjashir) ·
+[LinkedIn](https://linkedin.com/in/JashirMhd)
 
 </div>
+
+---
+
+<table>
+<tr>
+<td width="32%" valign="top">
+
+<img src="https://github.com/Muhammedjashir.png" width="100%" style="border-radius:50%;" />
+
+<h2>Muhammed Jashir</h2>
+
+**MUHAMMEDJASHIR**
+
+Frontend Developer building modern web applications.
+
+Currently working with React, Next.js, Node.js and MongoDB.
+
+<br/>
+
+<a href="https://github.com/Muhammedjashir">
+<img src="https://img.shields.io/badge/Follow-181818?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**LOCATION**
+
+📍 Kerala, India
+
+**WORK**
+
+💻 MERN Stack Developer
+
+**INTERESTS**
+
+- Web Development
+- UI/UX Design
+- AI & Technology
+- SaaS Applications
+
+<br/>
+
+**CONNECT**
+
+<a href="https://linkedin.com/in/JashirMhd">LinkedIn</a>
+
+<a href="https://github.com/Muhammedjashir">GitHub</a>
+
+<a href="https://my-portfolio-ew28.vercel.app">Portfolio</a>
+
+</td>
+
+<td width="68%" valign="top">
+
+<div align="left">
+
+<sub>MUHAMMEDJASHIR / README.md</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F4F2ED&height=280&section=header&text=Muhammed%20Jashir&fontSize=65&fontColor=111111&fontAlign=12&fontAlignY=45&desc=FULLSTACK%20DEVELOPER%20%20%7C%20%20BUILDING%20FOR%20THE%20WEB&descAlign=14&descAlignY=70&descSize=13" width="100%" />
+
+</div>
+
+### Every day, in blue
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammedjashir&bg_color=f4f2ed&color=111111&line=3155ff&point=3155ff&area=true&hide_border=true" width="100%" />
+
+### The last 12 months on GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammedjashir&show_icons=true&hide_border=true&bg_color=f4f2ed&title_color=111111&text_color=333333&icon_color=3155ff&include_all_commits=true" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammedjashir&theme=default&hide_border=true&background=F4F2ED&ring=3155FF&fire=F04438&currStreakLabel=111111" width="100%" />
+
+### What I do
+
+<table>
+<tr>
+<td width="33%" bgcolor="#3155FF">
+<h3>BUILD</h3>
+<h2>Web Apps</h2>
+<sub>Developing modern, scalable web applications using React and Next.js.</sub>
+</td>
+<td width="33%" bgcolor="#F04438">
+<h3>CREATE</h3>
+<h2>Digital Products</h2>
+<sub>Building business websites, dashboards, e-commerce and SaaS products.</sub>
+</td>
+<td width="33%" bgcolor="#FFC928">
+<h3>LEARN</h3>
+<h2>New Tech</h2>
+<sub>Exploring AI, modern development tools and better user experiences.</sub>
+</td>
+</tr>
+</table>
+
+### What I'm coding
+
+<table>
+<tr>
+<td width="50%">
+
+**🔵 MYAICARD**
+
+NFC-powered digital visiting card platform with profiles, dashboards and digital identity features.
+
+</td>
+<td width="50%">
+
+**🔴 BIMsensio**
+
+A modern BIM services platform focused on architectural, structural and MEP solutions.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🟡 TeqnoCapital**
+
+Software development and digital marketing solutions for businesses.
+
+</td>
+<td width="50%">
+
+**🟣 My Portfolio**
+
+Personal developer portfolio built using modern frontend technologies.
+
+</td>
+</tr>
+</table>
+
+### Tech stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,postman,vercel,wordpress" />
+</p>
+
+### Currently exploring
+
+- Advanced Next.js development
+- Backend architecture
+- AI-powered applications
+- UI/UX and Figma
+
+---
+
+<div align="center">
+
+### Let's build something great.
+
+<a href="https://github.com/Muhammedjashir">
+<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://my-portfolio-ew28.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-3155FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>DESIGNED WITH PASSION · BUILT WITH CODE</sub>
+
+</div>
+
+</td>
+</tr>
+</table>
